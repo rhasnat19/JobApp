@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597713009129",
+    "project_id": "authassignment-b3dec",
+    "storage_bucket": "authassignment-b3dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597713009129:android:eda3bb919b32058761f378",
+        "android_client_info": {
+          "package_name": "com.example.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597713009129-o6bngk92cjctg7bomo07642tftut28o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGk9kp7qdzdXsv-gcA8YEhCGU0F9YW6Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597713009129-o6bngk92cjctg7bomo07642tftut28o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
